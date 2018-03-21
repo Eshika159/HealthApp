@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527220800288",
+    "firebase_url": "https://healthcareapp2-6bc22.firebaseio.com",
+    "project_id": "healthcareapp2-6bc22",
+    "storage_bucket": "healthcareapp2-6bc22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527220800288:android:5b53cc98cfd4d6b2",
+        "android_client_info": {
+          "package_name": "com.example.adity.healthcareapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527220800288-hbnee2imfu53hb1hs6sd8b98obqq3kp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adity.healthcareapp2",
+            "certificate_hash": "cba5bacc5e6aeb080f8f54aa4490094303984b35"
+          }
+        },
+        {
+          "client_id": "527220800288-n7rhlnanqv2oi8jmsh974llflvpl7cqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30QCfumHRoKKN7a_7eIzzGuVkyB4q9Bc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527220800288-n7rhlnanqv2oi8jmsh974llflvpl7cqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

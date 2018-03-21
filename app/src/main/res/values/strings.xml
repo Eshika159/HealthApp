@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HealthCareApp2</string>
+    <string name="title_activity_nav">NavActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="sympton">
+        <item>Fever</item>
+        <item>Skin rash</item>
+        <item>Muscle aches</item>
+        <item>Nausea</item>
+        <item>Cold</item>
+        <item>Flu</item>
+        <item>Cramps</item>
+        <item>Fainting </item>
+        <item>Severe joint pain </item>
+        <item>Red Eyes</item>
+        <item>Itchiness and Runny Nose</item>
+        <item>Eczema</item>
+        <item>Hives</item>
+    </string-array>
+</resources>
